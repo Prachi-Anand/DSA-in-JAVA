@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

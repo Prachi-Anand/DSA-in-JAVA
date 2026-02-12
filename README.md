@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -40,4 +41,9 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0035-search-insert-position) |
@@ -55,6 +56,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0075-sort-colors) |
@@ -68,4 +70,8 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

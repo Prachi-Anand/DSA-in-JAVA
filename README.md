@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
@@ -21,6 +22,7 @@
 | [0001-two-sum](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -68,6 +70,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy

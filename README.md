@@ -24,6 +24,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -32,6 +33,7 @@
 | [0020-valid-parentheses](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [0049-group-anagrams](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |

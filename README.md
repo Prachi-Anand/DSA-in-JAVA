@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0035-search-insert-position) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@ class Solution {
                 else{
                     low=mid+1;
                 }
+                
             }
             else{
                 if(target>=nums[mid]&&target<=nums[high])
@@ -25,8 +26,9 @@ class Solution {
                     low=mid+1;
                 }
                 else{
-                    high = mid-1;
+                    high=mid-1;
                 }
+                
             }
         }
         return -1;

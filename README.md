@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0073-set-matrix-zeroes) |
@@ -45,6 +46,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |

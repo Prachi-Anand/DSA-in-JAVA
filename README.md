@@ -18,6 +18,7 @@
 | [0088-merge-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
@@ -49,6 +50,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
@@ -86,6 +88,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
@@ -99,4 +102,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->

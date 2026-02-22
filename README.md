@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0075-sort-colors) |
@@ -86,6 +87,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

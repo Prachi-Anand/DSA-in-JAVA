@@ -20,6 +20,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
@@ -52,6 +53,7 @@
 | [0035-search-insert-position](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
@@ -80,6 +82,7 @@
 | [0075-sort-colors](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -112,4 +115,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

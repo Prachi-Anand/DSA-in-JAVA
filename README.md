@@ -23,6 +23,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0912-sort-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@
 | [0075-sort-colors](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -119,4 +122,24 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0287-find-the-duplicate-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

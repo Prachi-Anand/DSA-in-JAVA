@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0066-plus-one) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0131-palindrome-partitioning) |
 ## Recursion
 |  |

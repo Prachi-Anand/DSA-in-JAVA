@@ -20,6 +20,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -138,6 +139,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0287-find-the-duplicate-number) |
@@ -166,6 +168,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0131-palindrome-partitioning) |
 ## Recursion
 |  |

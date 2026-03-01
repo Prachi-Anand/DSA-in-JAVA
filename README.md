@@ -104,6 +104,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0231-power-of-two) |

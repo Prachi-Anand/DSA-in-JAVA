@@ -74,6 +74,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0131-palindrome-partitioning) |
+| [0509-fibonacci-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0069-sqrtx](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -177,4 +179,9 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

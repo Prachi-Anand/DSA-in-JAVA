@@ -105,6 +105,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -191,4 +192,5 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

@@ -187,4 +187,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

@@ -31,6 +31,7 @@
 | [0455-assign-cookies](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0860-lemonade-change) |
 ## Prefix Sum
 |  |
 | ------- |

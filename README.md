@@ -15,6 +15,7 @@
 | [0040-combination-sum-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0074-search-a-2d-matrix) |
@@ -78,6 +79,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0860-lemonade-change) |
 ## Prefix Sum

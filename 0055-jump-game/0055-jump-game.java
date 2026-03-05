@@ -7,9 +7,10 @@ class Solution {
              {
                 return false;
              }
-                
+                else{
              
                 maxIndex=Integer.max(maxIndex,i+nums[i]);
+                }
              
         }
         return true;

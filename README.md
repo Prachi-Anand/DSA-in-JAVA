@@ -48,6 +48,7 @@
 | [0141-linked-list-cycle](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0383-ransom-note) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -61,6 +62,7 @@
 | [0131-palindrome-partitioning](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |

@@ -1,5 +1,4 @@
 class Solution {
-    
     public double myPow(double x, int n) {
 
     long N = n;
@@ -9,20 +8,21 @@ class Solution {
         N = -N;
     }
 
-    return power(x, N);
+    double result = 1;
+
+    while(N > 0){
+
+        if(N % 2 == 1)
+            result = result * x;
+
+        x = x * x;
+        N = N / 2;
+    }
+
+    return result;
 }
+    
+    
 
-public double power(double x, long n){
-
-    if(n == 0)
-        return 1;
-
-    double half = power(x, n/2);
-
-    if(n % 2 == 0)
-        return half * half;
-    else
-        return x * half * half;
-}
 
 }

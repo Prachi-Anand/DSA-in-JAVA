@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
@@ -133,6 +134,7 @@
 | [0050-powx-n](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
@@ -216,6 +218,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |

@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0131-palindrome-partitioning) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
@@ -232,4 +234,8 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

@@ -28,6 +28,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
@@ -128,6 +129,7 @@
 | [0125-valid-palindrome](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0455-assign-cookies) |
@@ -142,6 +144,7 @@
 | [0066-plus-one](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0509-fibonacci-number) |

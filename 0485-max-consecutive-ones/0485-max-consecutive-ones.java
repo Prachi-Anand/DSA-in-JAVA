@@ -6,7 +6,7 @@ class Solution {
         {
             if(nums[i]==1){
                 counter++;
-                max=Integer.max(max,counter);
+                max=Math.max(max,counter);
             }
             else{
                 counter=0;

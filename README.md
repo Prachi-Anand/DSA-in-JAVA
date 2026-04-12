@@ -41,6 +41,7 @@
 | [0455-assign-cookies](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0912-sort-an-array) |
@@ -58,6 +59,7 @@
 | [0242-valid-anagram](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0560-subarray-sum-equals-k) |
 ## Trie
 |  |
 | ------- |

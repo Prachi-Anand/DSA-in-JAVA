@@ -161,6 +161,7 @@
 | [0268-missing-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -242,6 +243,7 @@
 | [0206-reverse-linked-list](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |

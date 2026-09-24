@@ -1,47 +1,47 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
+        List<Integer> ans = new ArrayList<>();
 
-    int m = matrix.length;
-    int n = matrix[0].length;
+        int top = 0;
+        int left = 0;
 
-    List<Integer> ans = new ArrayList<>();
+        int n = matrix.length;
+        int m = matrix[0].length;
 
-    int srow = 0, erow = m - 1;
-    int scol = 0, ecol = n - 1;
+        int right = m - 1;
+        int bottom = n - 1;
 
-    while (srow <= erow && scol <= ecol) {
+        while (left <= right && top <= bottom) {
 
-        // Top row
-        for (int i = scol; i <= ecol; i++) {
-            ans.add(matrix[srow][i]);
-        }
-        srow++;
-
-        // Right column
-        for (int j = srow; j <= erow; j++) {
-            ans.add(matrix[j][ecol]);
-        }
-        ecol--;
-
-        //  Bottom row (only if row remains)
-        if (srow <= erow) {
-            for (int i = ecol; i >= scol; i--) {
-                
-                ans.add(matrix[erow][i]);
+            // Top row
+            for (int i = left; i <= right; i++) {
+                ans.add(matrix[top][i]);
             }
-            erow--;
+            top++;
+
+            // Right column
+            for (int j = top; j <= bottom; j++) {
+                ans.add(matrix[j][right]);
+            }
+            right--;
+
+            // Bottom row
+            if (top <= bottom) {
+                for (int i = right; i >= left; i--) {
+                    ans.add(matrix[bottom][i]);
+                }
+                bottom--;
+            }
+
+            // Left column
+            if (left <= right) {
+                for (int j = bottom; j >= top; j--) {
+                    ans.add(matrix[j][left]);
+                }
+                left++;
+            }
         }
 
-        // Left column (only if column remains)
-        if (scol <= ecol) {
-            for (int j = erow; j >= srow; j--) {
-                
-                ans.add(matrix[j][scol]);
-            }
-            scol++;
-        }
+        return ans;
     }
-
-    return ans;
-}
 }

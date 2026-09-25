@@ -83,6 +83,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0383-ransom-note) |
+| [1021-remove-outermost-parentheses](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0020-valid-parentheses](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/1021-remove-outermost-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -291,4 +293,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Prachi-Anand/DSA-in-JAVA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
